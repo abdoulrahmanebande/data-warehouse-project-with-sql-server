@@ -14,6 +14,7 @@ Script Turpose:
 Usage Notes:
 	- Run these only after loading the data into the Silver layer.
 	- Investigate and resolve any discrepancies found during the checks.
+	- Investigate and resolve any discrepancies found during the checks.
 
 */
 
