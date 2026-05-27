@@ -50,7 +50,7 @@ The orchestration of historical and transactional pipelines follows a strict, un
 
 The internal relational model across staging areas manages the relational integrity of operational records, facilitating predictable processing paths during high-throughput parallel transactions.
 
-![Integration Model Diagram](docs/data_integration_model.png)
+![Integration Model Diagram](docs/data_integration.png)
 
 ---
 
@@ -82,5 +82,5 @@ To provision this ecosystem inside a local runtime environment, clone the versio
 
 ```bash
 # 1. Clone the version control repository locally
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone [https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git](https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git)
 cd your-repository-name
