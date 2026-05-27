@@ -84,3 +84,21 @@ To provision this ecosystem inside a local runtime environment, clone the versio
 # 1. Clone the version control repository locally
 git clone https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git
 cd your-repository-name
+```
+
+---
+
+## 👤 About Me
+
+Hello! I'm **Bande Abdoul-Rahmane**, a professional **Data Scientist** and **Data Engineer** and **Data Analyst** passionate about bridging the gap between raw data infrastructure, predictive modeling, and scalable MLOps deployment cycles. 
+
+I specialize in building complete data ecosystems—from designing high-performance relational architectures using the Medallion framework to training and serving predictive machine learning models in automated production pipelines.
+
+### 🎓 Academic & Technical Foundation
+* **B-Tech in Computer Science & Engineering** (Specialization in Data Science) | CGPA: 7.56/10
+* **Core Competencies:** Data Warehousing (SQL Server, T-SQL), Data Pipeline Architectures (Medallion System, ETL/ELT), Relational & NoSQL Modeling (Star Schema, MongoDB), Advanced Machine Learning Pipelines (Scikit-Learn, XGBoost), Cross-Platform Application Analytics (Flutter & Dart), and MLOps Infrastructure (Docker, Cloud Systems).
+
+### 🛠️ My Engineering Philosophy
+I believe that machine learning algorithms are only as good as the infrastructure supporting them. Whether I am writing optimized SQL scripts to build a data warehouse or writing a script to automate batch inferencing, my goal is always to build clean, maintainable, and decoupled systems that drive real corporate value.
+
+---
