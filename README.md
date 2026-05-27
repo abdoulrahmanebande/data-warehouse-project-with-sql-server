@@ -82,5 +82,5 @@ To provision this ecosystem inside a local runtime environment, clone the versio
 
 ```bash
 # 1. Clone the version control repository locally
-git clone [https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git](https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git)
+git clone https://github.com/abdoulrahmanebande/data-warehouse-project-with-sql-server.git
 cd your-repository-name
