@@ -103,12 +103,10 @@ I believe that machine learning algorithms are only as good as the infrastructur
 
 ---
 
----
+## 🏎️ The Enterprise Analytical Roadmap
 
-## 🏎️ Next Step: Analytical Auditing
-Now that the **Gold Layer** is fully built and modeled into a Star Schema, the next phase of the enterprise lifecycle is **Data Interrogation**. 
+This Data Warehouse serves as the foundational core for downstream analytics. To see how this schema is utilized in real-world business scenarios, follow the end-to-end lineage path:
 
-I have built a separate repository executing complex analytical queries directly on this schema:
-👉 **[View the SQL Exploratory Data Analysis (EDA) Project](https://github.com/abdoulrahmanebande/Exploratory-Data-Analysis-with-SQL.git)**
+1. **[Phase 1: Exploratory Data Analysis (EDA) using SQL](https://github.com/abdoulrahmanebande/Exploratory-Data-Analysis-with-SQL.git)** — Interrogating the Gold Schema to profile metrics, audit data health, and establish statistical scale magnitudes.
+2. **[Phase 2: Advanced Analytics & Engineering using T-SQL](https://github.com/abdoulrahmanebande/Advanced-Data-Analytics-using-SQL.git)** — Building production-ready database `VIEW` layers calculating rolling metrics, part-to-whole segmentations, and behavioral profiling for BI integration.
 
----
