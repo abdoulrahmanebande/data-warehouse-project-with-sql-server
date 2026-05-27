@@ -102,3 +102,13 @@ I specialize in building complete data ecosystems—from designing high-performa
 I believe that machine learning algorithms are only as good as the infrastructure supporting them. Whether I am writing optimized SQL scripts to build a data warehouse or writing a script to automate batch inferencing, my goal is always to build clean, maintainable, and decoupled systems that drive real corporate value.
 
 ---
+
+---
+
+## 🏎️ Next Step: Analytical Auditing
+Now that the **Gold Layer** is fully built and modeled into a Star Schema, the next phase of the enterprise lifecycle is **Data Interrogation**. 
+
+I have built a separate repository executing complex analytical queries directly on this schema:
+👉 **[View the SQL Exploratory Data Analysis (EDA) Project](https://github.com/abdoulrahmanebande/Exploratory-Data-Analysis-with-SQL.git)**
+
+---
