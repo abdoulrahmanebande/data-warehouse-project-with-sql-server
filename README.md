@@ -18,4 +18,4 @@ The platform processes data sequentially through three structural validation and
 
 Below is the complete architectural layout mapped out from ingestion nodes to consumption schemas:
 
-![System Architecture Diagram](docs/architecture.png)
+![System Architecture Diagram](docs/data_architecture.png)
