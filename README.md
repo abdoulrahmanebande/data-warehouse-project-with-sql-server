@@ -15,3 +15,7 @@ This platform acts as a centralized "Single Source of Truth," consolidating disp
 ## 🏗️ 1. High-Level Enterprise System Architecture
 
 The platform processes data sequentially through three structural validation and optimization zones (Bronze $\rightarrow$ Silver $\rightarrow$ Gold). This separation decouples storage systems from high-intensity computing workloads, mitigating resource contention on online transactional systems and providing complete data immutability.
+
+Below is the complete architectural layout mapped out from ingestion nodes to consumption schemas:
+
+![System Architecture Diagram](docs/architecture.png)
